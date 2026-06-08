@@ -1,4 +1,6 @@
 # Site Build Settings
+url: "https://bulraku.github.io"
+baseurl: "/Tu-Quy.Lai"
 
 # jekyll-paginate configuration
 paginate:            5
