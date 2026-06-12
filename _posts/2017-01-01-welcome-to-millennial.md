@@ -62,6 +62,19 @@ Before the final presentation render, multiple Arnold test renders were used to 
 ![Render Test]({{ site.baseurl }}/assets/img/Modeling_StageN%20(2).png)
 ## Final Result
 
+<p>
+The final presentation includes a turntable animation showcasing the completed asset, material response, and emissive crystal effect under varying lighting conditions.
+</p>
+
+<iframe
+    width="100%"
+    height="500"
+    src="https://www.youtube.com/embed/-A9VTjsllOY"
+    title="Ashen Knight Dagger Turntable"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
 The finished asset successfully combines hard-surface modeling techniques with a stylized crystal material treatment. The project served as valuable practice in both technical and artistic aspects of game asset creation.
 
 
