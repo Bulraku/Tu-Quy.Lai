@@ -24,9 +24,13 @@ Adobe Substance Painte
 
 ## Skills Demonstrated
 -Hard-surface modeling
+
 -UV unwrapping
+
 -Texture creation
+
 -Material design
+
 -Asset presentation
 
 ### Challenges
