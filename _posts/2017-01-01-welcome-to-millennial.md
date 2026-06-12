@@ -47,19 +47,19 @@ Another challenge involved configuring the material network for Arnold rendering
 
 The dagger was first modeled in Autodesk Maya, focusing on accurately recreating the overall silhouette before refining individual components such as the blade, guard, eye, and handle.
 
-![Modeling Process](/assets/img/Modeling_Stage.png)
+image: Modeling_StageN (1).png
 
 ### Shader Development
 
 Custom materials were assembled and refined within Maya's Hypershade editor. This stage involved building and troubleshooting shader networks to create the final crystal and metallic surface appearance.
 
-![Hypershade Setup](/assets/img/Hypershade_fix.png)
+image: Modeling_StageN (3).png
 
 ### Early Rendering Tests
 
 Before the final presentation render, multiple Arnold test renders were used to evaluate lighting, material response, and silhouette readability.
 
-![Render Test](/assets/img/Early_Render.png)
+image: Modeling_StageN (2).png
 
 ## Final Result
 
