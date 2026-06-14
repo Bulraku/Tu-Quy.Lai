@@ -57,7 +57,7 @@ The project began with a rough blockout to establish the character's proportions
 
 ### Feature Development
 
-After the main body shape was established, the facial features, ears, horns, and character-specific details were developed further. This stage helped define the character's personality and sequel-inspired changes.
+After the main body shape was established, the facial features, ears, and character-specific details were developed further. This stage helped define the character's personality and sequel-inspired changes.
 
 ![Feature Development]({{ site.baseurl }}/assets/img/WIP_Aym/Feature_Development.png)
 
