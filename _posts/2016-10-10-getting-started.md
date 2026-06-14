@@ -11,7 +11,7 @@ image: Cat_Cafe_pics/Cat_Cafe_Gate.png
 
 This project is a stylized 3D environment prop based on a cat café window design. The objective was to practice prop modeling, UV mapping, texturing, and presentation workflows using Autodesk Maya and Adobe Substance 3D Painter.
 
-The asset focuses on a cozy, stylized visual style with rounded shapes, pastel colors, wood materials, and decorative cat-themed forms. The goal was to translate the original concept into a readable 3D asset while maintaining its playful and inviting appearance.
+The asset focuses on a cozy, stylized visual style with rounded shapes, pastel colors, wood materials, and decorative cat-themed forms. The goal was to translate the original concept into a readable 3D asset while maintaining its playful and inviting appearance while maintainin the look that the same window has been in use for a while with signs of wear. 
 
 ## Software Used
 
@@ -35,11 +35,19 @@ The asset focuses on a cozy, stylized visual style with rounded shapes, pastel c
 
 - Asset presentation
 
+ ## Reference
+
+The project was based on a stylized cat café window concept. The goal was to translate the original design into a functional 3D asset while preserving its overall shape language and visual appeal.
+
+![Original Concept]({{ site.baseurl }}/assets/img/Cat_Cafe_pics/Screenshot 2026-03-03 132333.png)
+
 ## Challenges
 
 One of the primary challenges was translating the 2D concept into a 3D model while preserving the original silhouette and charm. The asset contains several rounded and layered shapes, so maintaining readability from different angles was an important part of the process.
 
 Another challenge involved creating stylized materials that felt distinct while still fitting together as one cohesive prop. The wood, painted surfaces, and metallic accents needed enough variation to be readable without making the asset look too busy.
+
+Additionally this asset was prone to messy aisurface interactions which had to be fixed by hand aswell
 
 ## Development Process
 
