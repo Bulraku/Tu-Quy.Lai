@@ -21,7 +21,6 @@ This portfolio currently focuses on my 3D work, showcasing completed projects an
 - ZBrush
 - Adobe Substance 3D Painter
 - Unity
-- Unreal Engine
 - Photoshop
 
 ## Contact
